@@ -1,3 +1,3 @@
-# ryu-myungjae 
+# Ryu-myungjae 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{vomj12@naver.com})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbaudwo144)](https://solved.ac/fbaudwo144)
