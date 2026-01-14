@@ -4,7 +4,7 @@
 Cloud Engineer studying cloud technologies with a focus on MLOps and monitoring.<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/명재류) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vomj12@naver.com) [![Blog](https://img.shields.io/badge/Blog-000000?logo=tistory&logoColor=white)](https://squash29.tistory.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%A5%98-%EB%AA%85%EC%9E%AC-573091393/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vomj12@naver.com) [![Blog](https://img.shields.io/badge/Blog-000000?logo=tistory&logoColor=white)](https://squash29.tistory.com/)
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) <br>![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
